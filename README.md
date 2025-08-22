@@ -1,10 +1,10 @@
 # 👋 Xin chào, tôi là Lê Tuấn Anh
 
 ## 💼 Giới thiệu
-Quê quán: Ấp Bình Thành, Xã Phú Bình, Huyện Phú Tân, Tỉnh An Giang.
-Chổ ở hiện tại: Ấp Bình Thành, Xã Bình Thạnh Đông, Tỉnh An Giang.
-Sinh ngày 27 tháng 01 năm 2005.
-Tôi là một sinh viên Ngành Công Nghệ Thông Tin của Trường Đại học An Giang, yêu thích xây dựng các ứng dụng web hiệu quả, dễ mở rộng và thân thiện với người dùng.  
+- Quê quán: Ấp Bình Thành, Xã Phú Bình, Huyện Phú Tân, Tỉnh An Giang.
+- Chổ ở hiện tại: Ấp Bình Thành, Xã Bình Thạnh Đông, Tỉnh An Giang.
+- Sinh ngày 27 tháng 01 năm 2005.
+- Tôi là một sinh viên Ngành Công Nghệ Thông Tin của Trường Đại học An Giang, yêu thích xây dựng các ứng dụng web hiệu quả, dễ mở rộng và thân thiện với người dùng.  
 Ngoài ra, tôi cũng quan tâm đến **Java Backend, Web Development**.
 
 ## 🚀 Kỹ năng chính
